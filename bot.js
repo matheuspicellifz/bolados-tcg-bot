@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const mercadopago = require('mercadopago');
 
 // Token do seu bot do Telegram
-const TELEGRAM_TOKEN = '6384139837:AAEwJgkYwXJZyJvGZyZJZyJvGZyZJZyJvGZy'; // substitua por seu token real se for diferente
+const TELEGRAM_TOKEN = '8469299446:AAHYe5QXIwiF4IHahCNa66c29-ZG_34VYn0';
 
 // Token de produção do Mercado Pago
 const MP_TOKEN = 'APP_USR-2300733662844142-091318-212a401f56e2524c527340593cddb019-206527225';
