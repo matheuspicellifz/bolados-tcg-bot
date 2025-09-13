@@ -1,0 +1,10 @@
+{
+  "name": "bolados-tcg-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "dependencies": {
+    "mercadopago": "^1.5.9",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
