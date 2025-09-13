@@ -30,9 +30,9 @@ bot.onText(/\/pix/, async (msg) => {
         }
       ],
       back_urls: {
-        success: 'https://bolados-tcg-bot.up.railway.app/sucesso',
-        failure: 'https://bolados-tcg-bot.up.railway.app/erro',
-        pending: 'https://bolados-tcg-bot.up.railway.app/pendente'
+        success: 'https://bolados-tcg-bot.onrender.com/sucesso',
+        failure: 'https://bolados-tcg-bot.onrender.com/erro',
+        pending: 'https://bolados-tcg-bot.onrender.com/pendente'
       },
       auto_return: 'approved'
     });
